@@ -5,20 +5,20 @@ A [Homebrew](https://brew.sh) tap for **[ark](https://github.com/Eclipser9-20/Ar
 ## Install
 
 ```sh
-brew install eclipser9-20/ark/ark
+brew install eclipser9-20/ark/ark-shell
 ```
 
 Or tap first, then install:
 
 ```sh
 brew tap eclipser9-20/ark
-brew install ark
+brew install ark-shell
 ```
 
 Build the latest development version instead of the newest release:
 
 ```sh
-brew install --HEAD eclipser9-20/ark/ark
+brew install --HEAD eclipser9-20/ark/ark-shell
 ```
 
 ## Use ark as your login shell
