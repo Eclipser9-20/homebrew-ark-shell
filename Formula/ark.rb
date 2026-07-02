@@ -2,7 +2,7 @@ class Ark < Formula
   desc "Interactive shell blending bash, zsh, fish, and nushell ideas, in C++20"
   homepage "https://github.com/Eclipser9-20/Ark-shell"
   url "https://github.com/Eclipser9-20/Ark-shell/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "REPLACE_WITH_TARBALL_SHA256"
+  sha256 "5a46cbcbeb44ee2645e70f0cfc3ea5fd6bdd9012d457217392686e816be7bb6e"
   license "MIT"
   head "https://github.com/Eclipser9-20/Ark-shell.git", branch: "main"
 
